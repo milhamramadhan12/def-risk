@@ -883,7 +883,7 @@ plt.show()
 
 
     
-![png](run_files/run_18_0.png)
+![png](README_files/README_18_0.png)
     
 
 
@@ -903,7 +903,7 @@ plt.show()
 
 
     
-![png](run_files/run_21_0.png)
+![png](README_files/README_21_0.png)
     
 
 
@@ -1194,7 +1194,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_1.png)
+![png](README_files/README_45_1.png)
     
 
 
@@ -1202,7 +1202,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_3.png)
+![png](README_files/README_45_3.png)
     
 
 
@@ -1210,7 +1210,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_5.png)
+![png](README_files/README_45_5.png)
     
 
 
@@ -1218,7 +1218,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_7.png)
+![png](README_files/README_45_7.png)
     
 
 
@@ -1226,7 +1226,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_9.png)
+![png](README_files/README_45_9.png)
     
 
 
@@ -1234,7 +1234,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_11.png)
+![png](README_files/README_45_11.png)
     
 
 
@@ -1242,7 +1242,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_13.png)
+![png](README_files/README_45_13.png)
     
 
 
@@ -1250,7 +1250,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_15.png)
+![png](README_files/README_45_15.png)
     
 
 
@@ -1258,7 +1258,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_17.png)
+![png](README_files/README_45_17.png)
     
 
 
@@ -1266,7 +1266,7 @@ gc.collect()
 
 
     
-![png](run_files/run_45_19.png)
+![png](README_files/README_45_19.png)
     
 
 
@@ -1318,7 +1318,7 @@ plt.show()
 
 
     
-![png](run_files/run_48_0.png)
+![png](README_files/README_48_0.png)
     
 
 
@@ -1360,7 +1360,7 @@ plt.xlabel('Days Employment')
 
 
     
-![png](run_files/run_52_1.png)
+![png](README_files/README_52_1.png)
     
 
 
@@ -1555,7 +1555,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_1.png)
+![png](README_files/README_62_1.png)
     
 
 
@@ -1563,7 +1563,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_3.png)
+![png](README_files/README_62_3.png)
     
 
 
@@ -1571,7 +1571,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_5.png)
+![png](README_files/README_62_5.png)
     
 
 
@@ -1579,7 +1579,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_7.png)
+![png](README_files/README_62_7.png)
     
 
 
@@ -1587,7 +1587,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_9.png)
+![png](README_files/README_62_9.png)
     
 
 
@@ -1595,7 +1595,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_11.png)
+![png](README_files/README_62_11.png)
     
 
 
@@ -1603,7 +1603,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_13.png)
+![png](README_files/README_62_13.png)
     
 
 
@@ -1611,7 +1611,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_15.png)
+![png](README_files/README_62_15.png)
     
 
 
@@ -1619,7 +1619,7 @@ for cols in tqdm(columns):
 
 
     
-![png](run_files/run_62_17.png)
+![png](README_files/README_62_17.png)
     
 
 
@@ -2147,7 +2147,7 @@ log_reg = roc_auc_plot(train, train_labels, cv=kfold, classifier=log_reg)
 
 
     
-![png](run_files/run_85_0.png)
+![png](README_files/README_85_0.png)
     
 
 
@@ -2451,7 +2451,7 @@ plt.hist(log_reg_pred)
 
 
     
-![png](run_files/run_87_1.png)
+![png](README_files/README_87_1.png)
     
 
 
@@ -2505,7 +2505,7 @@ sgd_classifier = roc_auc_plot(train, train_labels, cv=kfold, classifier=sgd_clas
 
 
     
-![png](run_files/run_95_0.png)
+![png](README_files/README_95_0.png)
     
 
 
@@ -2554,7 +2554,7 @@ gnb_clf = roc_auc_plot(train, train_labels, cv=kfold, classifier=gnb_clf)
 
 
     
-![png](run_files/run_101_0.png)
+![png](README_files/README_101_0.png)
     
 
 
@@ -2603,7 +2603,7 @@ bnb = roc_auc_plot(train, train_labels, cv=kfold, classifier=bnb)
 
 
     
-![png](run_files/run_107_0.png)
+![png](README_files/README_107_0.png)
     
 
 
@@ -2706,7 +2706,7 @@ lgb = roc_auc_plot(train, train_labels, cv=kfold, classifier=lgb)
 
 
     
-![png](run_files/run_114_1.png)
+![png](README_files/README_114_1.png)
     
 
 
@@ -2798,7 +2798,7 @@ score = 0.69144, fit sedikit lama
 
 
     
-![png](run_files/run_120_1.png)
+![png](README_files/README_120_1.png)
     
 
 
@@ -2862,7 +2862,7 @@ Average F1 Score: 0.00
 
 
     
-![png](run_files/run_125_0.png)
+![png](README_files/README_125_0.png)
     
 
 
@@ -2883,7 +2883,7 @@ Average F1 Score: 0.00
 
 
     
-![png](run_files/run_128_0.png)
+![png](README_files/README_128_0.png)
     
 
 
@@ -3046,7 +3046,7 @@ abc = roc_auc_plot(train, train_labels, cv=kfold, classifier=abc)
 
 
     
-![png](run_files/run_142_1.png)
+![png](README_files/README_142_1.png)
     
 
 
@@ -3339,7 +3339,7 @@ log_reg = roc_auc_plot(train, train_labels, cv=kfold, classifier=log_reg)
 
 
     
-![png](run_files/run_166_0.png)
+![png](README_files/README_166_0.png)
     
 
 
@@ -3381,7 +3381,7 @@ plt.hist(log_reg_pred)
 
 
     
-![png](run_files/run_168_2.png)
+![png](README_files/README_168_2.png)
     
 
 
@@ -3406,7 +3406,7 @@ sgd_classifier = roc_auc_plot(train, train_labels, cv=kfold, classifier=sgd_clas
 
 
     
-![png](run_files/run_172_0.png)
+![png](README_files/README_172_0.png)
     
 
 
@@ -3450,7 +3450,7 @@ gnb_clf = roc_auc_plot(train, train_labels, cv=kfold, classifier=gnb_clf)
 
 
     
-![png](run_files/run_177_0.png)
+![png](README_files/README_177_0.png)
     
 
 
@@ -3494,7 +3494,7 @@ bnb = roc_auc_plot(train, train_labels, cv=kfold, classifier=bnb)
 
 
     
-![png](run_files/run_182_0.png)
+![png](README_files/README_182_0.png)
     
 
 
@@ -3578,7 +3578,7 @@ lgb = roc_auc_plot(train, train_labels, cv=kfold, classifier=lgb)
 
 
     
-![png](run_files/run_187_1.png)
+![png](README_files/README_187_1.png)
     
 
 
@@ -9631,7 +9631,7 @@ log_reg = roc_auc_plot(train, train_labels, cv=kfold, classifier=log_reg)
 
 
     
-![png](run_files/run_233_0.png)
+![png](README_files/README_233_0.png)
     
 
 
@@ -9935,7 +9935,7 @@ plt.hist(log_reg_pred)
 
 
     
-![png](run_files/run_235_1.png)
+![png](README_files/README_235_1.png)
     
 
 
@@ -9957,7 +9957,7 @@ sgd_classifier = roc_auc_plot(train, train_labels, cv=kfold, classifier=sgd_clas
 
 
     
-![png](run_files/run_238_0.png)
+![png](README_files/README_238_0.png)
     
 
 
@@ -10039,7 +10039,7 @@ lgb = roc_auc_plot(train, train_labels, cv=kfold, classifier=lgb)
 
 
     
-![png](run_files/run_242_1.png)
+![png](README_files/README_242_1.png)
     
 
 
