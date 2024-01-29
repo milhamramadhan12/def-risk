@@ -3,3 +3,4 @@
 *.sqlite
 *.sqlite3
 *.sqbpro
+*.ipynb_checkpoints
