@@ -9,4 +9,4 @@ Home Credit saat ini sedang menggunakan berbagai macam metode statistik dan Mach
 
 ## Hasil Pengerjaan
 
-Ringkasan pengerjaan dapat dilihat pada [Link](https://www.linkedin.com/in/muhammad-ilham-ramadhan-548a521b5/overlay/1706548274524/single-media-viewer?type=DOCUMENT&profileId=ACoAADIqrYgB47XvYbnq6k5KR9b_KZwxN1VSzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOmhaykC9T8STjrG9eUql8Q%3D%3D)
+Ringkasan pengerjaan dapat dilihat pada [Link](https://drive.google.com/file/d/1Q33YvW6zBsKh1R70KxXqB7rSmqArxdwv/view?usp=sharing)
